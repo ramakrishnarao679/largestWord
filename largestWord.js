@@ -10,4 +10,4 @@ function findLargestWord (str){
     }
     return longestWord;
 };
-console.log(findLargestWord('the quick brown for jumped over the lazy dog'))
+console.log(findLargestWord('the quick brown for jumped over the lazy dog'));
